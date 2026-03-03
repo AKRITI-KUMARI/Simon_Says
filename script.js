@@ -97,4 +97,3 @@ function reset(){
   startBtn.classList.remove("hidden");
 }
 
-
